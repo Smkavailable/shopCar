@@ -1,0 +1,8 @@
+@import './base.css';
+@import './wangeditor.css';
+
+.overflowShow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}

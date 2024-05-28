@@ -1,0 +1,304 @@
+{
+  "carousel": [
+    {
+      "id": "1",
+      "title": "轮播图1",
+      "imgPath": "https://pic.imgdb.cn/item/660e51559f345e8d039df80e.png"
+    },
+    {
+      "id": "2",
+      "title": "轮播图2",
+      "imgPath": "https://pic.imgdb.cn/item/660e51569f345e8d039dfdfc.png"
+    },
+    {
+      "id": "3",
+      "title": "轮播图3",
+      "imgPath": "https://pic.imgdb.cn/item/660e51569f345e8d039e00ff.png"
+    }
+  ],
+  "shopCat": [
+    {
+      "id": "1",
+      "product_id": 1,
+      "product_name": " All Star Modern Lift女斜纹布厚底鞋 ",
+      "product_title": "厚底鞋",
+      "product_price": 599,
+      "product_selling_price": 429,
+      "product_picture": "https://pic.imgdb.cn/item/6610044868eb9357132cf860.webp",
+      "num": 1
+    },
+    {
+      "id": "4",
+      "product_id": 4,
+      "product_name": " 1970S女复古Y2K风刺绣高帮帆布鞋 ",
+      "product_title": "高帮帆布鞋",
+      "product_price": 649,
+      "product_selling_price": 489,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca1ce.webp",
+      "num": 1
+    },
+    {
+      "id": "5",
+      "product_id": 5,
+      "product_name": " 1970S女樱花渐变色高帮休闲鞋 ",
+      "product_title": "休闲鞋",
+      "product_price": 599,
+      "product_selling_price": 419,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca207.webp",
+      "num": 1
+    },
+    {
+      "id": "1",
+      "product_id": 1,
+      "product_name": " All Star Modern Lift女斜纹布厚底鞋 ",
+      "product_title": "厚底鞋",
+      "product_price": 599,
+      "product_selling_price": 429,
+      "product_picture": "https://pic.imgdb.cn/item/6610044868eb9357132cf860.webp",
+      "num": 1
+    }
+  ],
+  "goods": [
+    {
+      "product_id": 1,
+      "product_picture": "https://pic.imgdb.cn/item/6610044868eb9357132cf860.webp",
+      "product_name": " All Star Modern Lift女斜纹布厚底鞋 ",
+      "product_title": "厚底鞋",
+      "product_selling_price": 429,
+      "product_price": 599,
+      "id": "1",
+      "num": 1
+    },
+    {
+      "product_id": 2,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb868eb9357133ca163.webp",
+      "product_name": " 1970S男女可翻折青年布高帮休闲鞋 ",
+      "product_title": "休闲鞋",
+      "product_selling_price": 459,
+      "product_price": 649,
+      "id": "2",
+      "num": 1
+    },
+    {
+      "product_id": 3,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca1ad.webp",
+      "product_name": " 1970S男女喷墨感印花休闲高帮帆布鞋 ",
+      "product_title": "帆布鞋",
+      "product_selling_price": 469,
+      "product_price": 649,
+      "id": "3",
+      "num": 1
+    },
+    {
+      "product_id": 4,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca1ce.webp",
+      "product_name": " 1970S女复古Y2K风刺绣高帮帆布鞋 ",
+      "product_title": "高帮帆布鞋",
+      "product_selling_price": 489,
+      "product_price": 649,
+      "id": "4",
+      "num": 1
+    },
+    {
+      "product_id": 5,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca207.webp",
+      "product_name": " 1970S女樱花渐变色高帮休闲鞋 ",
+      "product_title": "休闲鞋",
+      "product_selling_price": 419,
+      "product_price": 599,
+      "id": "5",
+      "num": 1
+    },
+    {
+      "product_id": 6,
+      "product_picture": "https://pic.imgdb.cn/item/66100eb968eb9357133ca25c.webp",
+      "product_name": " 1970S男女高帮帆布鞋蔷薇粉多巴胺粉色 ",
+      "product_title": "多巴胺",
+      "product_selling_price": 479,
+      "product_price": 649,
+      "id": "6",
+      "num": 1
+    },
+    {
+      "product_id": 7,
+      "product_picture": "https://pic.imgdb.cn/item/66100ec468eb9357133cb5f0.webp",
+      "product_name": " All Star Lift经典厚底配裙子的小白鞋 ",
+      "product_title": "小白鞋 ",
+      "product_selling_price": 449,
+      "product_price": 549,
+      "id": "7",
+      "num": 1
+    }
+  ],
+  "newgood": [
+    {
+      "product_id": 11,
+      "product_picture": "https://pic.imgdb.cn/item/6610066a68eb9357132e8e2a.webp",
+      "product_name": " 悠游男女厚底鞋UU鞋面包鞋粉紫色浅紫色 ",
+      "product_title": "面包鞋",
+      "product_selling_price": 499,
+      "product_price": 699,
+      "id": "11",
+      "num": 1
+    },
+    {
+      "product_id": 12,
+      "product_picture": "https://pic.imgdb.cn/item/66100ec468eb9357133cb66b.webp",
+      "product_name": " 悠游All Star男女厚底鞋UU鞋面包鞋 ",
+      "product_title": "UU鞋",
+      "product_selling_price": 488,
+      "product_price": 699,
+      "id": "12",
+      "num": 1
+    },
+    {
+      "product_id": 13,
+      "product_picture": "https://pic.imgdb.cn/item/66100ec468eb9357133cb6e6.webp",
+      "product_name": " 悠游All Star男女厚底鞋UU鞋面包鞋 ",
+      "product_title": "面包鞋 ",
+      "product_selling_price": 499,
+      "product_price": 699,
+      "id": "13",
+      "num": 1
+    },
+    {
+      "product_id": 14,
+      "product_picture": "https://pic.imgdb.cn/item/66100ec568eb9357133cb745.webp",
+      "product_name": " 【明星同款】悠游All Star男女厚底鞋UU鞋面包鞋 ",
+      "product_title": "面包鞋",
+      "product_selling_price": 488,
+      "product_price": 699,
+      "id": "14",
+      "num": 1
+    },
+    {
+      "product_id": 15,
+      "product_picture": "https://pic.imgdb.cn/item/66100ec568eb9357133cb7b0.webp",
+      "product_name": " All Star Lift女雏菊低帮厚底小白鞋 ",
+      "product_title": "小白鞋",
+      "product_selling_price": 499,
+      "product_price": 699,
+      "id": "15",
+      "num": 1
+    },
+    {
+      "product_id": 16,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed068eb9357133cd4bc.webp",
+      "product_name": " All Star Lift女柠檬元素低帮厚底鞋 ",
+      "product_title": "厚底鞋",
+      "product_selling_price": 499,
+      "product_price": 699,
+      "id": "16",
+      "num": 1
+    },
+    {
+      "product_id": 17,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed068eb9357133cd530.webp",
+      "product_name": " Run Star Legacy CX女柠檬夹心厚底鞋 ",
+      "product_title": "厚底鞋",
+      "product_selling_price": 499,
+      "product_price": 699,
+      "id": "17",
+      "num": 1
+    }
+  ],
+  "fitgood": [
+    {
+      "product_id": 21,
+      "product_picture": "https://pic.imgdb.cn/item/661006a668eb9357132ef39f.webp",
+      "product_name": " Converse x PLAY Comme des Garçons Chuck 70 Ox ",
+      "product_title": "Chuck 70 Ox",
+      "product_selling_price": 1099,
+      "product_price": 1099,
+      "id": "21",
+      "num": 1
+    },
+    {
+      "product_id": 22,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed068eb9357133cd5ac.webp",
+      "product_name": " Converse x Wonka CHUCK 70 “Oompa Loompa” ",
+      "product_title": "Oompa Loompa",
+      "product_selling_price": 479,
+      "product_price": 799,
+      "id": "22",
+      "num": 1
+    },
+    {
+      "product_id": 23,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed068eb9357133cd607.webp",
+      "product_name": " AS-1 Pro ALEXIS  SABLONE滑板鞋 ",
+      "product_title": "滑板鞋",
+      "product_selling_price": 599,
+      "product_price": 599,
+      "id": "23",
+      "num": 1
+    },
+    {
+      "product_id": 24,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed068eb9357133cd6a3.webp",
+      "product_name": " AS-1 Pro ALEXIS SABLONE滑板鞋 黑色",
+      "product_title": "黑色",
+      "product_selling_price": 699,
+      "product_price": 799,
+      "id": "24",
+      "num": 1
+    },
+    {
+      "product_id": 25,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed768eb9357133ceccb.webp",
+      "product_name": " All Star Move厚底增高女鞋粉色运动鞋 ",
+      "product_title": "运动鞋",
+      "product_selling_price": 459,
+      "product_price": 788,
+      "id": "25",
+      "num": 1
+    },
+    {
+      "product_id": 26,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed768eb9357133ced47.webp",
+      "product_name": " Run Star Utility Sandal CX夹心凉鞋 ",
+      "product_title": "夹心凉鞋",
+      "product_selling_price": 399,
+      "product_price": 699,
+      "id": "26",
+      "num": 1
+    },
+    {
+      "product_id": 27,
+      "product_picture": "https://pic.imgdb.cn/item/66100ed868eb9357133cedb5.webp",
+      "product_name": "  Run Star Utility Sandal CX男女夹心凉鞋  ",
+      "product_title": "男女夹心凉鞋",
+      "product_selling_price": 299,
+      "product_price": 799,
+      "id": "27",
+      "num": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "周处除三害",
+      "actors": "张三,李四",
+      "desc":"非常好"
+      
+
+    },
+    {
+      "id": 2,
+      "name": "热辣滚烫",
+      "actors": "贾玲",
+      "desc":"非常好好好"
+    }
+    
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {     
+    "name": "typicode"
+  },
+  "fruits":[
+    {
+      "id":1,
+      "name":"苹果",
+      "price":4,
+      "img":"https://img0.baidu.com/it/u=1365116674,2835425142&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1670950800&t=7e02dc7a0cafd61fb294579e1815377a"
+    },
+    {
+      "id":2,
+      "name":"香蕉",
+      "price":3,
+      "img":"https://img2.baidu.com/it/u=2881206806,612781901&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1670950800&t=aaf18c67cbfc504e2e902a6ee4a203b4"
+    },
+    {
+      "id":3,
+      "name":"西瓜",
+      "price":6,
+      "img":"http://yanxuan.nosdn.127.net/ea5b0a572b35089446fba491db7fbbc3.png"
+    }
+  ],
+  "users":[{
+    "name": {
+      "username":"admin",
+     "nikename":"zhangsan"
+    },
+    "password":123
+}],
+"goods": [{
+        "id": 1181003,
+        "name": "青翠灵动 龙泉青瓷经典餐具23件套",
+        "list_pic_url": "https://yanxuan-item.nosdn.127.net/e13cde62530ea69b6dcf4b8424e2ebfa.jpg?type=webp&imageView&quality=75&thumbnail=750x0",
+        "retail_price": 108,
+        "desc":"非常好"
+    },
+    {
+        "id": 1181000,
+        "name": "母亲节礼物-舒适安睡组合",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/1f67b1970ee20fd572b7202da0ff705d.png",
+        "retail_price": 2598,
+        "desc":"非常好"
+    },
+    {
+        "id": 1166008,
+        "name": "Carat钻石 不粘厨具组合",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/615a16e899e01efb780c488df4233f48.png",
+        "retail_price": 459,
+        "desc":"非常好"
+    },
+    {
+        "id": 1156006,
+        "name": "20寸 全铝镁合金登机箱",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/ea5b0a572b35089446fba491db7fbbc3.png",
+        "retail_price": 699,
+        "desc":"非常好"
+    },
+    {
+        "id": 1155015,
+        "name": "绿豆糕 80克（4枚入）",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/66b9f1638c0517d179262f14ed1345f9.png",
+        "retail_price": 12.9,
+        "desc":"非常好"
+    },
+    {
+        "id": 1155000,
+        "name": "清新趣粉全棉四件套 条纹绿格",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/d7d6ef1f1865991077384761b4521dce.png",
+        "retail_price": 399,
+        "desc":"非常好"
+    },
+    {
+        "id": 1153006,
+        "name": "魔兽世界 纪念版 麻将套装",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/2743921b945a6c71fcdc3c5282a03413.png",
+        "retail_price": 1288,
+        "desc":"非常好"
+    },
+    {
+        "id": 1152161,
+        "name": "竹语丝麻印花四件套",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/977401e75113f7c8334c4fb5b4bf6215.png",
+        "retail_price": 459,
+        "desc":"非常好"
+    },
+    {
+        "id": 1152101,
+        "name": "魔兽世界 部落 奥格瑞玛 拉杆箱 可登机",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/c1c62211a17b71a634fa0c705d11fb42.png",
+        "retail_price": 888,
+        "desc":"非常好"
+    },
+    {
+        "id": 1152100,
+        "name": "魔兽世界 部落·奥格瑞玛 堡垒收纳盒",
+        "list_pic_url": "http://yanxuan.nosdn.127.net/a667c4fbbd9c499c0733539d7e986617.png",
+        "retail_price": 499,
+        "desc":"非常好"
+        
+    }
+
+
+
+
+
+
+]
+}
